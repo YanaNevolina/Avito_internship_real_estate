@@ -1,4 +1,4 @@
-![<img src="/pics/sign_on.png" width="900"/>](/pics/sign_on.png "Дерево "Авторизация"")
+[<img src="/pics/sign_on.png" width="900"/>](/pics/sign_on.png "Дерево "Авторизация"")
 
 ## Тестовые данные:
 
